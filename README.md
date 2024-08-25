@@ -14,13 +14,16 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes en 
 
 ## Configuración del Proyecto
 
-### 1. Inicializar el Proyecto
+### 1. Clonar el Proyecto
 
-Primero, crea un nuevo directorio para tu proyecto y navega hacia él:
+Primero, clonar el proyecto y navega hacia él:
 
 ```bash
-mkdir mi-proyecto
-cd mi-proyecto
+git clone https://github.com/Gfg92/crud-api-node.git
+```
+
+```bash
+cd crud-api-node
 ```
 
 Inicializa un nuevo proyecto Node.js con:
