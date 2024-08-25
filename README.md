@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es una API RESTful básica construida con Node.js, Express, Sequelize, y PostgreSQL. La API también incluye documentación interactiva usando Swagger.
+Este proyecto es una API REST básica construida con Node.js, Express, Sequelize, y PostgreSQL. Utilizada para gestionar categorías de productos y productos a modo de CRUD. La API también incluye documentación interactiva usando Swagger.
 
 ## Requisitos Previos
 
