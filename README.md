@@ -59,3 +59,10 @@ Para ejecutar el proyecto, utiliza el siguiente comando:
 node index.js
 ```
 Esto iniciará el servidor en http://localhost:3000. Puedes acceder a la documentación de la API generada por Swagger en http://localhost:3000/api-docs.
+
+#### Ejemplo:
+Una vez tengas arrancado el contenedor y la api en funcionamiento, abre el navegador e introduce en la url:
+
+```bash
+http://localhost:3000/productos
+```
